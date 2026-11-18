@@ -1,4 +1,3 @@
-`markdown
 # Trabalho Prático: Limpeza de Dados com Pandas
 
 Disciplina **DGT2823 - Tecnologias para desenvolvimento de soluções de big data**.
